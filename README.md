@@ -5,7 +5,9 @@ The purpose of this analysis is to determine weather trends for the possible loc
 
 ## Results: Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed.
 
-https://github.com/abbys114/surfs_up/blob/main/surfs_up/June_temp.png
+![Alt text](https://github.com/abbys114/surfs_up/blob/main/surfs_up/June_temp.png)
+
+![Alt text](https://github.com/abbys114/surfs_up/blob/main/surfs_up/December_temp.png)
 
 
 ## Summary: Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
