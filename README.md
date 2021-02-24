@@ -1,7 +1,7 @@
 # surfs_up
 
 ## Overview of the Analysis
-The purpose of this analysis is to determine weather trends for the possible location of the surf and ice cream shop.  This analysis will help investors decide if the shop will be sustainable or not.  
+The purpose of this analysis is to determine weather trends for the possible location of the surf and ice cream shop.  The analysis will help investors decide if the shop will be sustainable or not.  
 
 ## Results
 - The average temperature is higher in June then in December
