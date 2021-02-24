@@ -14,5 +14,9 @@ The purpose of this analysis is to determine weather trends for the possible loc
 
 
 ## Summary: Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
-https://github.com/abbys114/surfs_up/blob/main/surfs_up/June_precipitation.png
+The analysis of the weather data for June and December show that June averages less rain and higher temperatures when compared to December weather. The weather in December has a higher standard deviation for temperature and percipitaton, meaning the weather can vary more. Overall, the weather for these two months averages low rainfall and warm temperatures, making it a good place to have a surf and ice cream shop.
+
+![Alt text](https://github.com/abbys114/surfs_up/blob/main/surfs_up/June_precipitation.png)
+
+![Alt text](https://github.com/abbys114/surfs_up/blob/main/surfs_up/December_precipitation.png)
 
